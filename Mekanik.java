@@ -17,5 +17,3 @@ public class Mekanik {
         return spesialisasi;
     }
 }
-
-
